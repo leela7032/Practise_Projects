@@ -3,20 +3,17 @@
 
 ![Dashboard Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/Dashboard.png)
 
-👉 Click [here]([https://app.powerbi.com/view?r=YOUR_REPORT_LINK](https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9)) to explore the live dashboard.
+## 📊 Interactive Dashboard
 
-
-
-
-# Atliq Sales Insights
-
+Explore the live Power BI dashboard:  
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9)
 
 
 #Problem Statement
-This project analyzes sales data to uncover business trends, using Power BI for visualization and SQL Server for backend querying.
+
 
 ## Dataset
-Located in the `Dataset` folder.
+db_dumb.sql is the file download it in order to work on InSights.
 
 ## Objectives
 - Explore sales performance by region
