@@ -1,7 +1,7 @@
 #Dashboard
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/leela7032/Practise_Projects/Atliq_Sales_InSights/Dashboard.png)
+![Dashboard Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/Dashboard.png)
 
 👉 Click [here]([https://app.powerbi.com/view?r=YOUR_REPORT_LINK](https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9)) to explore the live dashboard.
 
