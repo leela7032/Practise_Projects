@@ -37,9 +37,9 @@ SQL Workbench, PowerBI Dashboard, PowerBI Service, Some ETL
 
 ## 📊 Star Schema
 
-![Star Schema Screenshot]()
+![Star Schema Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/StarSchema.jpg)
 
 ## 📊 SQL Workbench Screenshot
 
-![SQL WorkBench Screenshot]()
+![SQL WorkBench Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/SQL_WorkBench_Photo.jpg)
  
