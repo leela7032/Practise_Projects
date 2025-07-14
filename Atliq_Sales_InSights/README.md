@@ -9,10 +9,10 @@ Explore the live Power BI dashboard:
 👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9)
 
 
-## Dataset
+##Dataset
 db_dumb.sql is the file download it in order to work on InSights.
 
-## Problem Statement
+##Problem Statement
 So we have a company called **ATLIQ Hardware Manufacturer** so **Sales Director Bhavin Patel** is facing some issues in terms of sales and so they want to hire Data Analyst / Business Analyst to solve this problem.
 
 ##Solution
