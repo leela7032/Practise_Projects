@@ -6,14 +6,14 @@
 ## 📊 Interactive Dashboard
 
 Explore the live Power BI dashboard:  
-👉 [View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9](https://app.fabric.microsoft.com/view?r=eyJrIjoiMzc4ZjljMTItM2I1Yy00N2JmLWExNTMtMzIzZmM1NThlZTU4IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9))
+👉 [View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9])
 
 
 ## 📊 Dataset
 Dataset.xlsv is the file download it in order to work on InSights.
 
 ## 📊 Problem Statement
-So we have a company called **ATLIQ Hardware Manufacturer** so **Sales Director Bhavin Patel** is facing some issues in terms of sales and so they want to hire Data Analyst / Business Analyst to solve this problem.
+So we have a company called **SN Corporation** so **Sales Director Manoj Shetty** is facing some issues in Visualizing the Bigger Picture of sales and so they want to hire Data Analyst to solve this problem.
 
 ## 🛠️ Solution
 
@@ -36,40 +36,35 @@ I’ve analyzed the problem and followed the AMES Grid (4 Steps):
 
 Here are the key insights extracted from the Atliq sales data:
 
-1. **Total Revenue of the Company**  
-   Shows overall revenue generated from all markets.
+1. **Sum of Sales**  
+  Displays cumulative sales revenue across products and time frames to identify top-performing categories.
 
-2. **Total Sales Quantity To Date**  
-   Indicates the total units sold across all categories.
+2. **Sum of Cost**  
+   Analyzes total cost trends over quarterly intervals to monitor operational efficiency and expense allocation.
 
-3. **Revenue per Market / Area**  
-   Breaks down revenue performance by geographical region.
+3. **Sum of Profit**  
+   Tracks profitability margins across different time periods with interactive slicers for deeper financial insights.
 
-4. **Sales Quantity per Market**  
-   Highlights how many units were sold in each market.
+4. **Business Across Countries**  
+   Visualizes international market contributions by country to assess global revenue distribution.
 
-5. **Top 5 Customers by Revenue**  
-   Lists the customers contributing most to revenue.
+5. **List of Company Customers with sales**  
+   Highlights customer-level sales volume and engagement across all product categories.
 
-6. **Top 5 Products by Revenue**  
-   Identifies the products with the highest sales earnings.
+6. **Quantity Sold by Region**  
+   Breaks down item quantities sold across geographic regions to evaluate regional performance.
 
-7. **Revenue Trend by Quarter**  
-   Visualizes sales growth or decline over quarterly intervals.
+7. **KPI's By SubCategory**  
+   Summarizes performance metrics by product subcategory to support category-level decision-making.
 
-8. **Year & Quarter Slicers**  
-   Interactive filters help users focus on specific time periods.
+8. **Orders trend by Quarter and Year**  
+   Illustrates order volume progression over time, helping pinpoint seasonal peaks and sales momentum.
+
 
 
 ##Technical Skills 
-SQL Workbench, PowerBI Dashboard, PowerBI Service, Some ETL
+PowerBI Dashboard, PowerBI Service, ETL using Power Query Editor
 
-## 📊 Star Schema
 
-![Star Schema Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/StarSchema.jpg)
-
-## 📊 SQL Workbench Screenshot
-
-![SQL WorkBench Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/Atliq_Sales_InSights/SQL_WorkBench_Photo.jpg)
  
 
