@@ -6,7 +6,7 @@
 ## 📊 Interactive Dashboard
 
 Explore the live Power BI dashboard:  
-👉 [View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9])
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZhMzkzZTYtNTMwZC00ZjI0LWIxYjEtYzE0NzQ4MTNlOWM3IiwidCI6ImNjNjA5YTUwLWFhODYtNGNjZi04MGQwLTk4Y2Y5MGM2YTk0YiJ9)
 
 
 ## 📊 Dataset
@@ -62,7 +62,7 @@ Here are the key insights extracted from the Atliq sales data:
 
 
 
-##Technical Skills 
+##📊 Technical Skills 
 PowerBI Dashboard, PowerBI Service, ETL using Power Query Editor
 
 
