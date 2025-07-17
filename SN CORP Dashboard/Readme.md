@@ -1,7 +1,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/SN CORP Dashboard/Dataset_Preview_SNDashboard.jpg)
+![Dashboard Screenshot](https://github.com/leela7032/Practise_Projects/raw/main/SN%20CORP%20Dashboard/Dataset_Preview_SNDashboard.jpg)
 
 ## 📊 Interactive Dashboard
 
