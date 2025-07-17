@@ -62,7 +62,8 @@ Here are the key insights extracted from the Atliq sales data:
 
 
 
-##📊 Technical Skills 
+## 📊 Technical Skills
+
 PowerBI Dashboard, PowerBI Service, ETL using Power Query Editor
 
 
